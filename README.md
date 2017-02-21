@@ -20,6 +20,7 @@ Then, on the other terminal window, use 'cd ./server' to get into the server dir
 In your browser, navigate to http://localhost:4040.
 
 
+
 # starting database on Mac OS
 
 if services not running, put the following in Command Line
