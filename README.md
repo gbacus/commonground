@@ -1,4 +1,5 @@
 
+
 # CommonGround
 
 This is a social app designed to facilitate comunication between different viewpoints. The goal is to allow users to post questions and
@@ -18,6 +19,7 @@ Then, on the other terminal window, use 'cd ./server' to get into the server dir
 - nodemon index.js
 
 In your browser, navigate to http://localhost:4040.
+
 
 
 # starting database on Mac OS
